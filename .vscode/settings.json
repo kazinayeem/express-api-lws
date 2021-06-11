@@ -1,0 +1,13 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.fontSize": 20,
+  "workbench.colorTheme": "Learn with Sumit Theme - Dracula version",
+  "material-icon-theme.activeIconPack": "react",
+  "css.completion.completePropertyWithSemicolon": false,
+  "php.suggest.basic": false,
+  "php.validate.enable": false,
+  "fontAwesomeAutocomplete.disableTriggerWordAutoClearPatterns": ["**/*.html"],
+
+  "autoimport.showNotifications": true,
+  "fontAwesomeAutocomplete.enableElevatedSortPriority": false
+}
